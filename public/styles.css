@@ -92,8 +92,8 @@ section:hover {
 }
 
 .projects {
-    background-color: #e0f2f1;
-    border-left: 5px solid #00695c;
+    background-color: #d1eefe;
+    border-left: 5px solid #669afe;
 }
 
 ul {
@@ -108,4 +108,5 @@ ul li {
 footer {
     text-align: center;
     font-style: italic;
-    color:
+    color: #333;
+}
